@@ -1,0 +1,14 @@
+{
+  "name": "guid",
+  "version": "0.0.1",
+  "description": "A guid utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "David Tsuji",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "~2.1.1"
+  }
+}
