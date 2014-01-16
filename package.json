@@ -1,6 +1,6 @@
 {
   "name": "sc-guid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A guid utility",
   "main": "index.js",
   "scripts": {
