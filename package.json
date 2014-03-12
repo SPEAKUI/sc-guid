@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SPEAKUI/sc-guid"
+  },
   "author": "David Tsuji",
   "license": "MIT",
   "devDependencies": {
